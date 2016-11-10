@@ -1,0 +1,11 @@
+{
+  "name": "vue-template-transpiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:RobertWHurst/vue-template-transpiler.git",
+    "type": "git"
+  },
+  "author": "Robert Hurst <robertwhurst@gmail.com>",
+  "license": "MIT"
+}
